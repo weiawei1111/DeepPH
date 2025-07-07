@@ -25,10 +25,13 @@ This supplementary code supports the results in our paper.
 
 ## How to Run
 
-1. Environment Setup  
-   The proposed model was implemented using Python 3.8+, PyTorch 2.6.0 and PyTorch Geometric 2.6.1.
-2. Execute the following command to train the DeepPH model: 
-   `python train_model_value_split_range.py`
+1. **Environment Setup**  
+   Python 3.8+, PyTorch 2.6.0, PyTorch Geometric 2.6.1.
+
+2. **Train the model**  
+   ```bash
+   python train_model_value_split_range.py
+
 
 
 
