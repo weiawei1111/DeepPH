@@ -19,7 +19,7 @@ This supplementary code supports the results in our paper.
 - `test_model_r2_split_aa_range3.pt`  
   The trained model containing learned weights.
 
--‘new_train_value.pkl, new_test_value.pkl and new_test_value_remove_phenv.pkl'
+- `new_train_value.pkl, new_test_value.pkl and new_test_value_remove_phenv.pkl`
   They are our training dataset and two test sets.
 
 ## How to Run
@@ -27,7 +27,7 @@ This supplementary code supports the results in our paper.
 1. Environment Setup  
    The proposed model was implemented using Python 3.8+, PyTorch 2.6.0 and PyTorch Geometric 2.6.1.
 2. Execute the following command to train the DeepPH model: 
-   'python train_model_value_split_range.py'
+   `python train_model_value_split_range.py`
 
 
 
