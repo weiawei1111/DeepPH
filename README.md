@@ -1,5 +1,5 @@
 # DeepPH : A Multimodal Deep Learning Model for Predicting Enzyme Optimal pH Range
-This supplementary code supports the results in our paper.  
+The supplementary code provided here supports the results presented in the paper.
 
 ## File Descriptions
 
