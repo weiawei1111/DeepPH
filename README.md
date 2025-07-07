@@ -20,7 +20,6 @@ This supplementary code supports the results in our paper.
   The trained model containing learned weights.
 
 - `new_train_value.pkl, new_test_value.pkl and new_test_value_remove_phenv.pkl`
-  
   They are our training dataset and two test sets.
 
 ## How to Run
