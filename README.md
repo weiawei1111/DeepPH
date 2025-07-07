@@ -1,4 +1,4 @@
-# Code for [DeepPH : A Multimodal Deep Learning Model for Predicting Enzyme Optimal pH Range]
+# DeepPH : A Multimodal Deep Learning Model for Predicting Enzyme Optimal pH Range
 This supplementary code supports the results in our paper.  
 
 ## File Descriptions
