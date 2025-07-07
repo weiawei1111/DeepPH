@@ -31,7 +31,3 @@ This supplementary code supports the results in our paper.
 2. **Train the model**  
    ```bash
    python train_model_value_split_range.py
-
-
-
-
